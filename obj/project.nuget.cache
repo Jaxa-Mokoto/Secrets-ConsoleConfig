@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZuWofC0Vkw//LteiGRYXdgUmAsP8PrDv85NejGgdBQAtYCN0G/y4fvJfkTC0G8wZUV9BR66lB87lD2m+jMGTIQ==",
+  "dgSpecHash": "tiCA4LE53lL/Bp/ZUDY5OSBjnWjcX2ypnB2Jo21ohvwjEj47Ujoq24RrRlVQvte6DV677ugRDM/QyxvpY4F0WA==",
   "success": true,
-  "projectFilePath": "/Users/modjadjimokoto/Documents/GitHub/Secrets-ConsoleConfig/Serializer.csproj",
+  "projectFilePath": "/Users/modjadjimokoto/Documents/GitHub/Secrets-ConsoleConfig/Secrets.csproj",
   "expectedPackageFiles": [
     "/Users/modjadjimokoto/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/modjadjimokoto/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

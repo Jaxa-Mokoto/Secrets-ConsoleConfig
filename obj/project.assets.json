@@ -1488,9 +1488,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/modjadjimokoto/Documents/GitHub/Secrets-ConsoleConfig/Serializer.csproj",
-      "projectName": "Serializer",
-      "projectPath": "/Users/modjadjimokoto/Documents/GitHub/Secrets-ConsoleConfig/Serializer.csproj",
+      "projectUniqueName": "/Users/modjadjimokoto/Documents/GitHub/Secrets-ConsoleConfig/Secrets.csproj",
+      "projectName": "Secrets",
+      "projectPath": "/Users/modjadjimokoto/Documents/GitHub/Secrets-ConsoleConfig/Secrets.csproj",
       "packagesPath": "/Users/modjadjimokoto/.nuget/packages/",
       "outputPath": "/Users/modjadjimokoto/Documents/GitHub/Secrets-ConsoleConfig/obj/",
       "projectStyle": "PackageReference",
